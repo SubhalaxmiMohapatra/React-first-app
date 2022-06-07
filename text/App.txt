@@ -1,0 +1,10 @@
+import react
+import some component
+1.NavBar
+2.HeroSection
+3.AppSection
+4.CardSection
+5.Footer
+creat a component:App
+return all imported component inside App component
+Export App component

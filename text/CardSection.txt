@@ -1,0 +1,7 @@
+import react
+import card component
+component used:CardSection
+created a row 
+inside the row there are three column
+each card display some text with image
+export CardSection

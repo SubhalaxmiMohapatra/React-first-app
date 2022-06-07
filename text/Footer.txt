@@ -1,0 +1,6 @@
+import react
+create a component Footer
+inside the p tag we display three line of text
+1.Contact us at Instagram
+2.You can react via email too
+3.NO COPYRIGHT

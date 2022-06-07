@@ -1,0 +1,6 @@
+import react
+component used:AppSection
+inside the component some text used 
+Two button present name as
+1. Play Store
+2.App Store

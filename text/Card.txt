@@ -1,0 +1,6 @@
+import react
+component used:Card
+inside the componet we use title nad buttonText as props and gives its valuse by default
+ title = "Basteball", buttonText = "My Button" 
+ used some image link in src tag
+ added some text inside cardtext
